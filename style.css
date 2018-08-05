@@ -1,28 +1,31 @@
 body{
 	margin: 55px 0 0 35px ;
-	background-color: #FFF;
+	background-color: #252f31;
 }
 span{
 	font-weight: bold;
 }
 a{
 	text-decoration: none;
-	color: #2C4E9C;
+	color: #CA6573;
+	font-family: 'Open Sans', sans-serif;
 }
 a:hover{
 	font-weight: bold;
 }
 .git-ref{
-	padding: 0;
+	padding: 0 0 0 0;
 	margin: 0 0 55px 0;
 }
 .name{
-	margin: 0; 
+	margin-bottom: 0px; 
 }
 .header{
 	font-family: 'Roboto', sans-serif;
+	color:#FFF;
 }
 .about-me{
 	width: 70%;
 	font-family: 'Open Sans', sans-serif;
+	color: #8D9089;
 }
