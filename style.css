@@ -1,0 +1,28 @@
+body{
+	margin: 55px 0 0 35px ;
+	background-color: #FFF;
+}
+span{
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: #2C4E9C;
+}
+a:hover{
+	font-weight: bold;
+}
+.git-ref{
+	padding: 0 0 0 0;
+	margin: 0 0 55px 0;
+}
+.name{
+	margin-bottom: 0px; 
+}
+.header{
+	font-family: 'Roboto', sans-serif;
+}
+.about-me{
+	width: 70%;
+	font-family: 'Open Sans', sans-serif;
+}
