@@ -13,12 +13,23 @@ a{
 a:hover{
 	font-weight: bold;
 }
+h1.header{
+	margin-top: 55px;
+}
+img{
+	height: 70px;
+	width: 70px;
+	border-radius: 8px;
+}
+header{
+	display: flex;
+}
 .git-ref{
-	padding: 0 0 0 0;
-	margin: 0 0 55px 0;
+	padding: 0;
+	margin: 0;
 }
 .name{
-	margin-bottom: 0; 
+	margin: 0; 
 }
 .header{
 	font-family: 'Roboto', sans-serif;
@@ -28,4 +39,7 @@ a:hover{
 	width: 70%;
 	font-family: 'Open Sans', sans-serif;
 	color: #C9C8C8;
+}
+.profile{
+	margin-left: 10px;
 }
