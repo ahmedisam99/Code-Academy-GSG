@@ -39,7 +39,15 @@ header{
 	width: 70%;
 	font-family: 'Open Sans', sans-serif;
 	color: #C9C8C8;
+	margin-bottom: 35px;
 }
 .profile{
 	margin-left: 10px;
+}
+.line{
+	height: 8px;
+	width: 70%;
+	background-color: #C9C8C8; 
+	margin-top: 20px;
+	border-radius: 20px;
 }
