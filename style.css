@@ -51,3 +51,15 @@ header{
 	margin-top: 20px;
 	border-radius: 20px;
 }
+.google .blue{
+	color: #4285f4;
+}
+.google .red{
+	color: #ea4335;
+}
+.google .yellow{
+	color: #fbbc05;
+}
+.google .green{
+	color: #34a853;
+}
