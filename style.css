@@ -16,11 +16,6 @@ a:hover{
 h1.header{
 	margin-top: 55px;
 }
-img{
-	height: 70px;
-	width: 70px;
-	border-radius: 8px;
-}
 header{
 	display: flex;
 }
@@ -68,4 +63,10 @@ h4{
 .icon{
 	width: 20px;
 	height: 20px; 
+	border-radius: 8px;
+}
+.personal-img{
+	height: 70px;
+	width: 70px;
+	border-radius: 8px;
 }
