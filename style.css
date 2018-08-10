@@ -25,6 +25,9 @@ h4{
 	color: #CA6573;
 	font-family: 'Open Sans', sans-serif;
 }
+li{
+	font-size: 1.2em;
+}
 .name{
 	margin: 0; 
 }
