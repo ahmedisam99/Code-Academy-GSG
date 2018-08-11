@@ -28,6 +28,9 @@ h4{
 li{
 	font-size: 1.2em;
 }
+p{
+	text-align: justify;
+}
 .name{
 	margin: 0; 
 }
